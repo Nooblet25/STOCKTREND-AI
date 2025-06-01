@@ -1,6 +1,6 @@
 # Group 4
 
-# Stock Market Analyzer
+# StockTrendAI
 
 A web application for analyzing and predicting stock market trends using historical data and statistical analysis.
 
